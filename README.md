@@ -17,7 +17,7 @@ This repository contains a simple Snake game developed using Pygame. The game is
 2. **Steps to Run**:
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/snake-game.git
+     git clone https://github.com/ananya-manduva/snake-game.git
      ```
    - Navigate to the project directory:
      ```bash
